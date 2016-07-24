@@ -1,0 +1,6 @@
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\bin\Debug\FileOrganizer.Infrastructure.dll
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\bin\Debug\FileOrganizer.Infrastructure.pdb
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\obj\Debug\FileOrganizer.Infrastructure.Properties.Resources.resources
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\obj\Debug\FileOrganizer.Infrastructure.csproj.GenerateResource.Cache
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\obj\Debug\FileOrganizer.Infrastructure.dll
+D:\Workspace\FileOrganizer\FileOrganizer.Infrastructure\obj\Debug\FileOrganizer.Infrastructure.pdb

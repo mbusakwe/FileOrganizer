@@ -1,0 +1,4 @@
+D:\Workspace\FileOrganizer\Modules\Core.Module\bin\Debug\Core.Module.dll
+D:\Workspace\FileOrganizer\Modules\Core.Module\bin\Debug\Core.Module.pdb
+D:\Workspace\FileOrganizer\Modules\Core.Module\obj\Debug\Core.Module.dll
+D:\Workspace\FileOrganizer\Modules\Core.Module\obj\Debug\Core.Module.pdb
